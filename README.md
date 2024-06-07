@@ -47,13 +47,13 @@ By default, the program will output the prices of the current test dataset, the 
 ## Citation
 If you find our paper or code is useful, please consider citing:
 ```bash
-   @article{YIN2024124299,
-    title = {An asset subset-constrained minimax optimization framework for online portfolio selection},
-    journal = {Expert Systems with Applications},
-    pages = {124299},
-    year = {2024},
-    issn = {0957-4174},
-    author = {Jianfei Yin and Anyang Zhong and Xiaomian Xiao and Ruili Wang and Joshua Zhexue Huang},
+@article{yin2024asset,
+  title={An asset subset-constrained minimax optimization framework for online portfolio selection},
+  author={Yin, Jianfei and Zhong, Anyang and Xiao, Xiaomian and Wang, Ruili and Huang, Joshua Zhexue},
+  journal={Expert Systems with Applications},
+  pages={124299},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
